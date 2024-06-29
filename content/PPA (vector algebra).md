@@ -42,7 +42,9 @@ $$
 	\hat{n_1} &= -\cos{\xi}\,\hat{x} + \sin{\xi}\,\hat{z}\\
 	\hat{k} &= \sin{\xi}\,\hat{x} + \cos{\xi}\,\hat{z}
 \end{align}
-$$$$
+$$
+
+$$
 \begin{align}
 	\hat{m_1} &= \hat{n_1} \times \hat{k} = (n_y k_z - n_z k_y)\hat{x} - (n_x k_z - n_z k_x)\hat{y} + (n_x k_y - n_y k_x)\hat{z}\\ &= (n_z k_x - n_x k_z)\hat{y} = (\sin^2{\xi}+\cos^2{\xi})\,\hat{y} = \hat{y}\\\\
 	\hat{m_1} &= \hat{y}
