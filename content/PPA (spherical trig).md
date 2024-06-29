@@ -11,10 +11,10 @@ $$
 Step 3: Use the cosine rule for sides to find $\cos{\alpha}$. Then get an expression for $\cos{\chi}$.
 
 $$
-\begin{align}
+\begin{align*}
 \cos{\alpha} &= \cos{\xi} \cos{\Gamma} + \sin{\xi} \sin{\Gamma} \cos{\chi}\\\\
 \cos{\chi} &= \frac{\cos{\alpha} - \cos{\xi} \cos{\Gamma}}{\sin{\xi} \sin{\Gamma}}
-\end{align}
+\end{align*}
 $$
 
 Step 4: Divide $\sin{\chi}$ by $\cos{\chi}$ to get $\tan{\chi}$.
@@ -32,9 +32,9 @@ $$
 Step 6: Substitute $\cos{\Gamma}$ and simplify.
 
 $$
-\begin{align}
+\begin{align*}
 \tan{\chi} &= \frac{\sin{\alpha} \sin{\varphi} \sin{\xi}}{\cos{\alpha} - \cos{\xi} \cos{\Gamma}}\\\\
 &= \frac{\sin{\alpha} \sin{\varphi} \sin{\xi}}{\cos{\alpha} \sin^2{\xi} - \sin{\alpha} \cos{\varphi} \sin{\xi} \cos{\xi}}\\\\
 \tan{\chi} &= \frac{\sin{\alpha} \sin{\varphi}}{\cos{\alpha} \sin{\xi} - \sin{\alpha} \cos{\varphi} \cos{\xi}}\\\\
-\end{align}
+\end{align*}
 $$
