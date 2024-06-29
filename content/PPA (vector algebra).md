@@ -82,6 +82,7 @@ $$
 \end{align}
 $$
 
+
 $$
 \begin{align}
 \hat{m_2} &= \hat{n_1} \times \hat{k} = (n_y k_z - n_z k_y)\hat{x} - (n_x k_z - n_z k_x)\hat{y} + (n_x k_y - n_y k_x)\hat{z}\\\\
@@ -98,6 +99,7 @@ $$
 \hat{n_2} &= \frac{(\sin{\alpha}\cos{\varphi}-\cos{\Gamma}\sin{\xi})\hat{x} + (\sin{\alpha}\sin{\varphi})\hat{y} + (\cos{\alpha}-\cos{\Gamma}\cos{\xi})\hat{z}}{\sin{\Gamma}}
 \end{align}
 $$
+
 $$
 \begin{align}
 \cos{\chi} &= \hat{n_1}\cdot\hat{n_2}\\
@@ -117,6 +119,7 @@ $$
 \hat{m_1} &= \hat{y}
 \end{align}
 $$
+
 $$
 \begin{align}
 \sin{\chi} &= \hat{m_2}\cdot\hat{n_1}=-\hat{m_1}\cdot\hat{n_2}\\\\
