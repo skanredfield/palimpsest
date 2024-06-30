@@ -1,5 +1,6 @@
 ---
 
+draft: true
 excalidraw-plugin: parsed
 tags: [excalidraw]
 
