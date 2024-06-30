@@ -4,7 +4,7 @@ Two alternate ways of arriving at the pulsar polarization angle:
 
 Below is the triangle with all the relevant angles and sides shown.
 
-![[PPA triangle]]
+![[PPA triangle.svg]]
 
 There are three triangles to consider:
 1. The larger triangle $\hat{k}\hat{M}\hat{\Omega}$. **The most important one!**
